@@ -10,6 +10,7 @@ h1 {
 
 }
 p {
+    opacity: 75%;
     font-family: monospace;
     text-align: center;
     font-size: 25px;
