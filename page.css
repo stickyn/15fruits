@@ -4,7 +4,7 @@ body {
 }
 h1 {
     font-family: monospace;
-    text-align: center;
+    text-align: left;
      font-size: 40px;
     font-style: italic;
 
@@ -12,7 +12,7 @@ h1 {
 p {
     opacity: 75%;
     font-family: monospace;
-    text-align: center;
+    text-align: left;
     font-size: 25px;
 }
 
@@ -24,4 +24,5 @@ p {
 }
 a {
     color:blue;
+
 }
